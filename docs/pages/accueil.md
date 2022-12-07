@@ -6,8 +6,6 @@ hide:
 
 ![logo-accueil](https://static.wixstatic.com/media/9c0294_10806d3e86b04622b058669f09f2be9c~mv2.png/v1/fill/w_758,h_206,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/banni%C3%A8reinternet_edited.png){style="max-width: 100%; width: 500px"}
 
-
-
 ---
 
 # Energie renouvelable pour toutes et tous.
@@ -20,18 +18,27 @@ Par sa gestion collégiale, Picojoule est pleinement en accord avec les valeurs 
 
 [Adhérer à Picojoules](#){ .md-button } [Status de l'association](#){ .md-button }
 
+---
+
+!!! success ""
+
+    ![](https://static.wixstatic.com/media/9c0294_18bfb8fd6e5b4809abcb5097a6a7b19b~mv2.jpg/v1/fill/w_265,h_164,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9c0294_18bfb8fd6e5b4809abcb5097a6a7b19b~mv2.jpg){: style="float: left; width: 100px; max-width: 100%;"}
+    
+    Campagne de financement participatif pour le projet d'autonomie des bateaux du Canal du Midi en cours ...
+
+    [Découvrir le projet](https://fr.ulule.com/autonomie-pour-les-bateaux-logements/){ .md-button }
+
 
 ??? tip "Qu'est ce que la Méthanisation ?"
     
-    « La ou les low-tech, mot à mot basses technologies, désignent une catégorie de produits, de services, de procédés ou autres systèmes permettant, via une transformation technique, organisationnelle et culturelle, le développement de nouveaux modèles de société intégrant, dans leurs principes fondamentaux, les exigences de durabilité forte et de résilience collective.
-
-    La low-tech n’est pas une démarche technophobe mais technocritique. Autrement dit, même si elle s’oppose à l’obsession de la high-tech, celle-ci s’accorde du principe de techno-discernement »
+    « La méthanisation est un processus biologique de dégradation des matières organiques. Elle est appelée aussi biométhanisation ou digestion anaérobie. »
     
     ---
     
-    Wikipédia 10-2022 – *Nous vous présentons la définition de Wikipédia car elle issue d’une réflexion collaborative, amenée à évoluer.*
+    Wikipédia 12-2022 – *Nous vous présentons la définition de Wikipédia car elle issue d’une réflexion collaborative, amenée à évoluer.*
 
 
+---
 
 ## Les objectifs
 
@@ -47,6 +54,8 @@ L'impact global est positif sur :
 
 Ces réalisations sont à taille humaine et leurs plans sont libres de droit (open source).
 
+
+---
 
 ## Les actions
 
@@ -78,7 +87,7 @@ Vous pouvez postuler dès maintenant au 2 offres suivantes :
 
 ![](https://static.wixstatic.com/media/9c0294_550e6b20a29f4160892d2881b54f8950~mv2.png/v1/fill/w_491,h_437,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Sche%CC%81ma%20Biodigesteur%20v2.png){: style="float: right; margin: 20px; max-width: 100%; width: 450px;"}
 
-[Mission 1 : Animer l'association](#){ .md-button } [Sensibiliser aux Low-tech](#){ .md-button }
+[Mission 1 : Animer l'association](#){ .md-button style="margin: 15px;"} [Mission 2 : Sensibiliser](#){ .md-button }
 
 
 
