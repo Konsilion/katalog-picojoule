@@ -26,7 +26,7 @@ Par sa gestion collégiale, Picojoule est pleinement en accord avec les valeurs 
     
     Campagne de financement participatif pour le projet d'autonomie des bateaux du Canal du Midi en cours ...
 
-    [Découvrir le projet](https://fr.ulule.com/autonomie-pour-les-bateaux-logements/){ .md-button }
+    [Découvrir le projet](https://fr.ulule.com/autonomie-pour-les-bateaux-logements/){ .md-button style="float:right; margin: 10px;"}
 
 
 ??? tip "Qu'est ce que la Méthanisation ?"
@@ -78,6 +78,7 @@ Ces réalisations sont à taille humaine et leurs plans sont libres de droit (op
 
     * Développement de la compression et d'épuration du biogaz
 
+---
 
 ## Recrutement de volontaires
 
