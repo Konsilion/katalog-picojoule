@@ -1,0 +1,97 @@
+# BIENVENU ! MODIFIER ICI LES PARAMETRES DE VOTRE PLATEFORME KATALOG
+# --------------------------------------------------------------------------------------------------------------------------------------------------
+#
+# Konsilion - Licence juridique Creative Commons CC-BY-NC
+# --------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+# NAVIGATION
+# --------------------------------------------------------------------------------------------------------------------------------------------------
+
+nav:
+
+    - Accueil: pages/accueil.md
+    
+    - Recherche & Développement:
+        
+        - Projets: katalog/projets/home.md
+
+        - Tâches: katalog/taches/home.md
+        
+        - Évenements: katalog/taches/home.md
+
+        - Ressources: katalog/ressources/home.md
+        
+        - Personnes: katalog/ressources/home.md
+        
+    - Ingénierie collaborative:
+
+        - De quoi parlons nous ?: pages/presentation.md
+
+        - Katalog: pages/katalog.md
+
+        - Konnect: pages/konnect.md   
+
+    - À propos: pages/informations.md
+    
+    - Contacts: pages/contacts.md
+
+
+
+# SITE INFORMATIONS 
+# --------------------------------------------------------------------------------------------------------------------------------------------------
+
+site_name: Konsilion - Low-technologie
+site_author: Nicolas Brémond
+site_description: Développer, proposer et promouvoir la Low-technologie.
+
+
+
+
+# LANGUE, COULEURS et LOGO
+#
+# [Liste des couleurs](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#primary-color)
+# --------------------------------------------------------------------------------------------------------------------------------------------------
+
+theme:
+    language: fr
+    palette:
+        primary: grey
+        accent: green
+        scheme: default
+    logo: https://konsilion.fr/wp/wp-content/uploads/2022/04/Logo_Konsilion_V2-1024x325.png
+    favicon: https://konsilion.fr/wp/wp-content/uploads/2022/03/Logo_Konsilion_1.png
+    name: material
+    features:
+      - navigation.indexes
+      - navigation.tracking
+      - navigation.top
+
+
+
+
+
+# MENTIONS 
+# --------------------------------------------------------------------------------------------------------------------------------------------------
+
+copyright: Konsilion - Licence juridique Creative Commons CC-BY-NC 4.0
+
+
+
+
+
+
+
+# AUTRES PARAMETRES - Ne pas modifier
+# --------------------------------------------------------------------------------------------------------------------------------------------------
+plugins: []
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
