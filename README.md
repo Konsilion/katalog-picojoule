@@ -44,6 +44,8 @@ Avec Katalog, diffusez ou retrouvez tout les savoirs dont vous avez besoin. Ains
 
 *si vous souhaitez revenir par la suite sur ces **paramètres visuels** de mkdocs, vous trouverez  un lien **Paramètrages** au bas de votre page d'accueil*
 
+![image](https://user-images.githubusercontent.com/99027754/206128871-43f59b1c-cf44-4882-b3ed-987a8b5a303f.png)
+
 
 ---
 
