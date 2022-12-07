@@ -13,7 +13,7 @@ nav:
 
     - Bienvenue: pages/accueil.md
     
-    - Tutoriels: pages/tutoriels.md 
+    - Tutoriels: katalog/tutoriels/home.md 
     
     - Nos actions:
     
