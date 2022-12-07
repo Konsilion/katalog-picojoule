@@ -1,0 +1,16 @@
+{
+    "informations": {
+        "name":"Picjoule - Projets & Grand travaux",
+        "descr": "Praesent dignissim quis orci in mattis. Nullam vitae magna dignissim, dictum est id, mollis nibh. Curabitur consectetur, neque id rutrum viverra, quam purus viverra erat, eget dapibus ante mauris id sapien.",
+        "model": "1",
+        "cardview": "true"
+    },
+    "external": {
+        "Konsilion": {
+            "descr": "Etiam blandit leo rutrum ante pharetra laoreet. Nulla convallis vestibulum urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent nunc magna, tincidunt eu dictum nec, eleifend non metus. Ut facilisis nisl magna, ac commodo ipsum gravida quis.",
+            "url": "https://github.com/Konsilion/katalog-template/blob/master/docs/katalog/projets/data.csv",
+            "token": "",
+            "activate": "true"
+        }
+    }
+}
