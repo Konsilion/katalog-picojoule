@@ -11,7 +11,15 @@
 
 nav:
 
-    - Accueil: pages/accueil.md
+    - Bienvenue: pages/accueil.md
+    
+    - Tutoriels: pages/tutoriels.md 
+    
+    - Actions:
+    
+        - Actions & Mobilisations: pages/actions-mobilisaton.md 
+        
+        - Formations: pages/formations.md 
     
     - Recherche & Développement:
         
@@ -23,15 +31,7 @@ nav:
 
         - Ressources: katalog/ressources/home.md
         
-        - Personnes: katalog/ressources/home.md
-        
-    - Ingénierie collaborative:
-
-        - De quoi parlons nous ?: pages/presentation.md
-
-        - Katalog: pages/katalog.md
-
-        - Konnect: pages/konnect.md   
+        - Personnes: katalog/ressources/home.md  
 
     - À propos: pages/informations.md
     
@@ -42,9 +42,9 @@ nav:
 # SITE INFORMATIONS 
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 
-site_name: Konsilion - Low-technologie
+site_name: PicoJoule - Méthanisation
 site_author: Nicolas Brémond
-site_description: Développer, proposer et promouvoir la Low-technologie.
+site_description: Energie renouvlable pour toutes et tous.
 
 
 
@@ -57,10 +57,10 @@ site_description: Développer, proposer et promouvoir la Low-technologie.
 theme:
     language: fr
     palette:
-        primary: grey
-        accent: green
+        primary: green
+        accent: blue
         scheme: default
-    logo: https://konsilion.fr/wp/wp-content/uploads/2022/04/Logo_Konsilion_V2-1024x325.png
+    logo: https://static.wixstatic.com/media/9c0294_10806d3e86b04622b058669f09f2be9c~mv2.png/v1/fill/w_758,h_206,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/banni%C3%A8reinternet_edited.png
     favicon: https://konsilion.fr/wp/wp-content/uploads/2022/03/Logo_Konsilion_1.png
     name: material
     features:
@@ -75,7 +75,7 @@ theme:
 # MENTIONS 
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 
-copyright: Konsilion - Licence juridique Creative Commons CC-BY-NC 4.0
+copyright: Picojoule - Licence juridique Creative Commons CC-BY-NC 4.0
 
 
 
